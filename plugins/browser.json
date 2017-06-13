@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "com.paypal.cordova.mobilesdk": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.hybridapps.woocommerce"
+        }
+    },
+    "dependent_plugins": {}
+}
