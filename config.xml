@@ -8,7 +8,7 @@
   <access origin="*"/>
   <allow-navigation href="*" />
   <plugin name="cordova-plugin-whitelist" />
-  <plugin name="com.paypal.cordova.mobilesdk" source="npm" />
+ 
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
