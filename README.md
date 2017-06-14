@@ -1,0 +1,2 @@
+# com.hybridapps.woocommerce
+MyWooMobile
